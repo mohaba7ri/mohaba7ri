@@ -204,31 +204,6 @@ Currently improving my skills and projects around:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohaba7ri&show_icons=true&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohaba7ri&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaba7ri&layout=compact&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🤝 Open To
 
 - Software Engineering opportunities
