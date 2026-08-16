@@ -228,10 +228,4 @@ Currently improving my skills and projects around:
   </a>
 </p>
 
-📧 **Email:** your-email@example.com
-
----
-
-<p align="center">
-  <i>Building software that solves real operational problems.</i>
-</p>
+📧 **Email:** almohanedalbahri2002@gmail.com
